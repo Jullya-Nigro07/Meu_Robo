@@ -1,4 +1,4 @@
-# Gerador de Relátorios com BOT 🤖
+# Gerador de Relátorios Automatizado  🤖
 
 Robô de automação desenvolvido em Python para coletar dados, gerar relatórios em CSV e automatizar sua execução utilizando GitHub Actions.
 
